@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Heebo', Arial, Helvetica, sans-serif;
+  background-color: #ECC8B0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
