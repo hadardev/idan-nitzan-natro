@@ -1,0 +1,22 @@
+div.treatments-section {
+    background: #efbf8d;
+}
+
+ul.treatments-section__treatments-list {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+li.treatments-section__treatments-list__item {
+    padding: 2em;
+    width: 64px;
+    margin: 0 auto;
+    transition: 1s ease-in-out;
+}
+
+
+
