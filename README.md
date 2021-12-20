@@ -8,4 +8,4 @@ This site is for Idan Nitzan N.D, a certificated Nathropath based in Tel Aviv.
 
 ## Author
 
-The Author of this site is Hadar Ben Ishay, a frontend web developer based in TLV, ISR.
+The Author of this site is Hadar Ben Ishay, a frontend web developer based in TLV.
