@@ -1,7 +1,7 @@
 {
   "name": "natro",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://hadardev.github.io/idan-nitzan-natro/",
   "author": "Hadar Ben Ishay",
   "dependencies": {
